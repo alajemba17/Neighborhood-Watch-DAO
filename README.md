@@ -42,6 +42,13 @@ A decentralized autonomous organization for community-governed security and safe
 3. Run tests: `clarinet test`
 4. Deploy to testnet: `clarinet deploy --testnet`
 
+## Deployment Instructions
+
+1. Install Clarinet CLI
+2. Run \`clarinet check\` to validate syntax
+3. Run \`clarinet test\` to execute test suite
+4. Deploy using \`clarinet deploy --testnet\`
+
 ## License
 
 MIT License
